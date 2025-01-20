@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Admin/Desktop/mlops/mlruns/0/7e16da928d0e496faf46d7ad8e7cad2a/artifacts
+end_time: 1737365574381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7e16da928d0e496faf46d7ad8e7cad2a
+run_name: likeable-yak-385
+run_uuid: 7e16da928d0e496faf46d7ad8e7cad2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737365574063
+status: 3
+tags: []
+user_id: Admin
