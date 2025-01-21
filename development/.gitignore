@@ -1,3 +1,4 @@
 .mlops
 __pycache__
 production/califonia_housing.pkl
+# git filter-branch --force --index-filter "git rm --cached --ignore-unmatch production/califonia_housing.pkl" --prune-empty --tag-name-filter cat -- --all
